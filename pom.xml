@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>camel-samples</groupId>
-	<artifactId>camel-proxy</artifactId>
+	<artifactId>camel-samples</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Camel Proxy</name>
+	<name>Camel Samples</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.camel</groupId>
